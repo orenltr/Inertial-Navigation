@@ -19,7 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93f73068-80a8-4395-be45-302db88a7e15" name="Default Changelist" comment="fixed transformation matrix" />
+    <list default="true" id="59ebdb10-2638-4630-a3f3-fe2f8b2160b5" name="Default Changelist" comment="calibration">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Navigation_Eq.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Navigation_Eq.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/robustStepCounter.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/robustStepCounter.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,7 +32,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="JupyterTrust" id="4b51ae82-548b-4a25-bc63-f29fce70deaa" />
+  <component name="JupyterTrust" id="98c6ead7-6d96-493a-91ff-02a0ee061135" />
   <component name="ProjectId" id="1n9nkhl34eLzWYysahZA8In162i" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -42,13 +46,14 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="93f73068-80a8-4395-be45-302db88a7e15" name="Default Changelist" comment="" />
+      <changelist id="59ebdb10-2638-4630-a3f3-fe2f8b2160b5" name="Default Changelist" comment="calibration" />
       <created>1610811319422</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1610811319422</updated>
       <workItem from="1610811320769" duration="7554000" />
       <workItem from="1610904021897" duration="4605000" />
+      <workItem from="1610981823284" duration="1991000" />
     </task>
     <task id="LOCAL‎00001" summary="numeric problem fixed">
       <created>1610814152336</created>
@@ -90,21 +95,25 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="715" y="243" key="#xdebugger.evaluate/0.0.1920.1080/1920.0.1536.864@0.0.1920.1080" timestamp="1610813619443" />
-    <state width="1877" height="210" key="GridCell.Tab.0.bottom" timestamp="1610903888120">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1491" height="81" key="GridCell.Tab.0.bottom" timestamp="1610984877458">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state width="1491" height="81" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1610984877458" />
     <state width="1877" height="210" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1536.864@0.0.1920.1080" timestamp="1610903888120" />
-    <state width="1877" height="210" key="GridCell.Tab.0.center" timestamp="1610903888119">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1491" height="81" key="GridCell.Tab.0.center" timestamp="1610984877458">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state width="1491" height="81" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1610984877458" />
     <state width="1877" height="210" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1536.864@0.0.1920.1080" timestamp="1610903888119" />
-    <state width="1877" height="210" key="GridCell.Tab.0.left" timestamp="1610903888117">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1491" height="81" key="GridCell.Tab.0.left" timestamp="1610984877458">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state width="1491" height="81" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1610984877458" />
     <state width="1877" height="210" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1536.864@0.0.1920.1080" timestamp="1610903888117" />
-    <state width="1877" height="210" key="GridCell.Tab.0.right" timestamp="1610903888119">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1491" height="81" key="GridCell.Tab.0.right" timestamp="1610984877458">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state width="1491" height="81" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1610984877458" />
     <state width="1877" height="210" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1536.864@0.0.1920.1080" timestamp="1610903888119" />
     <state width="1877" height="210" key="GridCell.Tab.1.bottom" timestamp="1610903888120">
       <screen x="0" y="0" width="1920" height="1080" />
@@ -126,5 +135,9 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.0.1536.864@0.0.1920.1080" timestamp="1610908241847" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Navigation_Eq_ipynb$INS.coverage" NAME="INS Coverage Results" MODIFIED="1610556202532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.." />
+    <SUITE FILE_PATH="coverage/Navigation_Eq_ipynb$nav_eq.coverage" NAME="nav_eq Coverage Results" MODIFIED="1610352206106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
