@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="93f73068-80a8-4395-be45-302db88a7e15" name="Default Changelist" comment="fixed transformation matrix" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="4b51ae82-548b-4a25-bc63-f29fce70deaa" />
+  <component name="ProjectId" id="1n9nkhl34eLzWYysahZA8In162i" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="93f73068-80a8-4395-be45-302db88a7e15" name="Default Changelist" comment="" />
+      <created>1610811319422</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610811319422</updated>
+      <workItem from="1610811320769" duration="7554000" />
+      <workItem from="1610904021897" duration="4605000" />
+    </task>
+    <task id="LOCAL‎00001" summary="numeric problem fixed">
+      <created>1610814152336</created>
+      <option name="number" value="LOCAL‎00001" />
+      <option name="presentableId" value="LOCAL‎00001" />
+      <updated>1610814152336</updated>
+    </task>
+    <task id="LOCAL‎00002" summary="fixed transformation matrix">
+      <created>1610908226247</created>
+      <option name="number" value="LOCAL‎00002" />
+      <option name="presentableId" value="LOCAL‎00002" />
+      <updated>1610908226247</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="numeric problem fixed" />
+    <MESSAGE value="fixed transformation matrix" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed transformation matrix" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="715" y="243" key="#xdebugger.evaluate" timestamp="1610813619443">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="715" y="243" key="#xdebugger.evaluate/0.0.1920.1080/1920.0.1536.864@0.0.1920.1080" timestamp="1610813619443" />
+    <state width="1877" height="210" key="GridCell.Tab.0.bottom" timestamp="1610903888120">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="210" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1536.864@0.0.1920.1080" timestamp="1610903888120" />
+    <state width="1877" height="210" key="GridCell.Tab.0.center" timestamp="1610903888119">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="210" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1536.864@0.0.1920.1080" timestamp="1610903888119" />
+    <state width="1877" height="210" key="GridCell.Tab.0.left" timestamp="1610903888117">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="210" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1536.864@0.0.1920.1080" timestamp="1610903888117" />
+    <state width="1877" height="210" key="GridCell.Tab.0.right" timestamp="1610903888119">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="210" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1536.864@0.0.1920.1080" timestamp="1610903888119" />
+    <state width="1877" height="210" key="GridCell.Tab.1.bottom" timestamp="1610903888120">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="210" key="GridCell.Tab.1.bottom/0.0.1920.1080/1920.0.1536.864@0.0.1920.1080" timestamp="1610903888120" />
+    <state width="1877" height="210" key="GridCell.Tab.1.center" timestamp="1610903888120">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="210" key="GridCell.Tab.1.center/0.0.1920.1080/1920.0.1536.864@0.0.1920.1080" timestamp="1610903888120" />
+    <state width="1877" height="210" key="GridCell.Tab.1.left" timestamp="1610903888120">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="210" key="GridCell.Tab.1.left/0.0.1920.1080/1920.0.1536.864@0.0.1920.1080" timestamp="1610903888120" />
+    <state width="1877" height="210" key="GridCell.Tab.1.right" timestamp="1610903888120">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="210" key="GridCell.Tab.1.right/0.0.1920.1080/1920.0.1536.864@0.0.1920.1080" timestamp="1610903888120" />
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1610908241847">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.0.1536.864@0.0.1920.1080" timestamp="1610908241847" />
+  </component>
+</project>
